@@ -18,6 +18,8 @@ Recognized for **innovation, creativity, and client focus**, with proven results
 
 Experienced in leading and scaling **cross-functional engineering teams**, fostering collaboration, and guiding individuals toward technical excellence and personal growth.
 
+Recently expanding into Machine Learning through structured learning (Stanford / DeepLearning.AI) and hands-on prototyping of LLM-based solutions.
+
 **International experience:** United States (Colorado & California), Sweden, Germany, India, UAE, Belgium, UK, Spain, Hungary
 
 **Languages:** Hungarian (native), English (fluent), German (conversational), French (basic), Spanish (learning)
@@ -55,7 +57,7 @@ _Other activities_:
 
 - Supported and guided engineers across multiple client projects.
 - Assisted in onboarding new consultants into client teams.
-- Co-researched and prototyped a candidate vetting tool with the CTO, leveraging OpenAI, SERP APIs, and scraping tools to detect scams and automate candidate scoring-critical in a remote-first consultancy setup.
+- Co-researched and prototyped a candidate vetting tool with the CTO, leveraging LLMs (OpenAI), SERP APIs, and scraping tools to detect scams and automate candidate scoring-critical in a remote-first consultancy setup.
 
 _Used technologies_:
 
