@@ -1,11 +1,39 @@
+
+
 body {
     background: #eee;
     margin: 0;
     padding: 0;
+    text-align: justify;
+}
+
+@media print {
+  @page {
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 25mm;
+    margin-bottom: 25mm;
+    @bottom-center {
+      content: counter(page);
+    }
+  }
+}
+
+h2 {
+  border-bottom: 1px dashed #666;
+  padding-bottom: 4px;
+  margin-top: 20px;
+  font-style: Georgia, sans-serif;
+  font-weight: normal;
+  font-size: 9pt;
+}
+
+#content-container {
+    max-width: 790px;
+    margin: 0 auto;
 }
 
 .resume-container {
-    max-width: 1280px;
     font-family: Georgia, sans-serif;
     font-size: 9pt;
     margin: 0 auto;
@@ -14,129 +42,41 @@ body {
     padding: 13mm 25mm 15mm 22mm;
 }
 
-.print-page {
-    font-size: 9pt;
-    width: 210mm;
-    height: 297mm;
-    margin: 10mm auto;
-    padding-top: 13mm;
-    padding-bottom: 15mm;
-    padding-left: 22mm;
-    padding-right: 25mm;
-    background: white;
-    box-sizing: border-box;
-    border: 1px dashed #ccc;
-    box-shadow: 0 0 5px rgba(0, 0, 0, 0.1);
-    overflow: hidden;
-}
-
-#measure-box {
-    font-size: 9pt;
-    visibility: hidden;
-    position: absolute;
-    top: 0;
-    left: -9999px;
-    width: 210mm;
-    padding-top: 13mm;
-    padding-bottom: 15mm;
-    padding-left: 22mm;
-    padding-right: 25mm;
-    box-sizing: border-box;
-}
-
-#controls {
-    position: fixed;
-    top: 10px;
-    left: 10px;
-    z-index: 1000;
-}
-
-@media print {
-    .print-page {
-        border: none;
-        box-shadow: none;
-        page-break-after: always;
-        margin: 0;
-    }
-
-    body {
-        background: none;
-    }
-}
-
 table {
-    width: 100%;
-    border-collapse: collapse;
-    margin-bottom: 1em;
-    margin-top: 2em;
+  width: 100%;
+  border-collapse: collapse;
+  margin-bottom: 6px;
 }
 
-tr {
-    margin: 0;
-    padding: 0;
+/* Remove borders (like Word hidden table) */
+table, td {
+  border: none;
 }
 
-td {
-    padding: 0;
-    vertical-align: top;
+/* First row (title + dates) */
+table tr:first-child th:first-child {
+  font-size: 1em;
+  text-align: left;
+  font-weight: normal;
 }
 
-td:first-child p {
-    text-align: left;
+table tr:first-child th:last-child {
+  text-align: right;
+  font-weight: normal;
+  color: lightgrey;
 }
 
-td:last-child p {
-    text-align: right;
+/* Second row (company + location) */
+table tr:nth-child(1) td:first-child {
+  font-weight: bold;
+  font-weight: normal;
 }
 
-td p {
-    margin: 0;
-    padding: 2px 0;
+table tr:nth-child(1) td:last-child {
+  text-align: right;
+  color: lightgray;
 }
 
-p {
-    text-align: justify;
-}
-
-.header {
-    margin-bottom: 0;
-    margin-top: 3em;
-    padding-bottom: 0;
-}
-
-hr {
-    border: none;
-    border-top: 1px dashed #000000;
-    width: 100%;
-    margin: 2px 0 15px 0;
-}
-
-
-@media screen and (max-width: 768px) {
-    body {
-        font-size: 12pt; /* Slightly larger text for readability */
-    }
-
-    .resume-container {
-        padding: 10px;
-        max-width: 100%;
-    }
-
-    table {
-        margin-top: 1em;
-    }
-
-    .header {
-        margin-top: 1em;
-    }
-
-    td:first-child, td:last-child {
-        display: block;
-        width: 100%;
-        text-align: left;
-    }
-
-    td:last-child p {
-        text-align: left;
-    }
+ul {
+    padding-inline-start: 1em;
 }
