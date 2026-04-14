@@ -226,10 +226,10 @@ _In general_: Participated in the design and implementation of mobile business s
 
 ## OTHER PROFESSIONAL ACHIEVEMENTS & CERTIFICATIONS
 
-- Certification by Stanford University - Supervised Machine Learning: Regression and Classification (Oct 2025)
+- Certification by Rice University (Texas, USA) - Parallel, Concurrent, and Distributed Programming in Java Specialization Certificate (Mar 2026)
+- Certifications by Stanford University & DeepLearning.AI - Supervised Machine Learning: Regression and Classification (Oct 2025), Advanced Learning Algorithms (Dec 2025)
 - Certification by INSEAD - Web3 and Blockchain Fundamentals (Oct 2025)
 - Certifications by LinkedIn - 1) Software Architecture: Breaking a Monolith into Microservices 2) Creating Spring Boot Microservices 3) Introduction to Identity and Access Management (Mar - Apr 2025)
-- Certifications by Rice University (Texas, USA) - 1) Parallel Programming in Java 2) Concurrent Programming in Java (Feb, Mar 2025)
 - Winner at TESCO Global Hackathon, in a team of 5 (Global online, 40+ teams, September 2022)
 - Awarded by Google for solving algorithmic challenge posted in the GDG Meetup (Budapest, 2021)
 - Finished in 1<sup>st</sup> place in the „SAP demo jam" based on the technical jury votes. Created a carpooling and commuting mobile and web application for employees (Budapest, 2015)
