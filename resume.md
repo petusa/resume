@@ -24,6 +24,17 @@ Experienced in leading and scaling **cross-functional engineering teams**, foste
 
 ## WORK EXPERIENCE
 
+| **UST - Capital One (UK)** | _Málaga, SPAIN_    |
+| -------------------------- | ------------------ |
+| _Senior Software Engineer_ | _Nov 2025–Present_ |
+
+Working on critical backend services for Capital One’s mobile platform, serving millions of users.
+
+- Operating and improving high-availability, secure, and performant services in a large-scale distributed environment
+- Driving observability initiatives: defining SLI/SLOs, implementing distributed tracing, dashboards, and alerting
+- Supporting infrastructure migrations and continuous delivery of new features aligned with business goals
+- Collaborating across teams to improve reliability, incident response, and overall customer experience
+
 | **Parser Digital - Aristocrat (US)** | _Málaga, SPAIN_       |
 | ------------------------------------ | --------------------- |
 | _Tech Lead / Engineering Manager_    | _June 2025-Sept 2025_ |
