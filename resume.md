@@ -8,6 +8,8 @@
 
 ## PROFESSIONAL SUMMARY
 
+This is an update for 2026, with the latest work experience and certifications added. Please let me know if you have any questions or need further information.
+
 **I help companies build high-quality software fast-without compromise.**
 
 Seasoned software engineer and technical leader with **18+ years of experience** designing, building, and delivering scalable, high-quality systems across **web, cloud, and mobile platforms**. Combines the versatility of a generalist with the mastery of a specialist, maintaining hands-on technical involvement while driving architectural vision and team growth.
