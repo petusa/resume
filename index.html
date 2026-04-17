@@ -2,24 +2,37 @@
 <html>
 
 <head>
-    <meta charset="UTF-8">
     <title>Peter Nagy - Resume</title>
+    <meta charset="UTF-8">
     <meta http-equiv='X-UA-Compatible' content='IE=edge'>
-
     <meta name='viewport' content='width=device-width, initial-scale=1'>
     <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
-    <link rel="stylesheet" href="index.css">
+    <style>
+        body {
+            background: #eee;
+            margin: 0;
+            padding: 0;
+
+        }
+
+        #resume-container {
+            max-width: 790px;
+            margin: 0 auto;
+            background-color: white;
+        }
+    </style>
+    <link rel="stylesheet" href="resume.css">
 </head>
 
 <body>
-    <div id="content-container">
-        <div id="content" class="print-page resume-container">Loading...</div>
+    <div id="resume-container">
+        <div id="resume">Loading...</div>
     </div>
     <script>
         fetch("resume.md")
             .then(res => res.text())
             .then(md => {
-                document.getElementById("content").innerHTML = marked.parse(md);
+                document.getElementById("resume").innerHTML = marked.parse(md);
             });
     </script>
 </body>

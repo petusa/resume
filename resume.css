@@ -1,24 +1,23 @@
+@media print {
+    @page {
+        margin-left: 0;
+        margin-right: 0;
+        margin-top: 15mm;
+        margin-bottom: 25mm;
 
-
-body {
-    background: #eee;
-    margin: 0;
-    padding: 0;
-    text-align: justify;
+        @bottom-center {
+            font-style: Georgia, sans-serif;
+            font-size: 9pt;
+            content: counter(page);
+        }
+    }
 }
 
-@media print {
-  @page {
-    margin-left: 0;
-    margin-right: 0;
-    margin-top: 15mm;
-    margin-bottom: 25mm;
-    @bottom-center {
-      font-style: Georgia, sans-serif;
-      font-size: 9pt;
-      content: counter(page);
-    }
-  }
+#resume {
+    font-family: Georgia, sans-serif;
+    font-size: 9pt;
+    text-align: justify;
+    padding: 13mm 25mm 15mm 22mm;
 }
 
 h1 {
@@ -37,21 +36,6 @@ h2 {
   font-style: Georgia, sans-serif;
   font-weight: normal;
   font-size: 9pt;
-}
-
-
-#content-container {
-    max-width: 790px;
-    margin: 0 auto;
-}
-
-.resume-container {
-    font-family: Georgia, sans-serif;
-    font-size: 9pt;
-    margin: 0 auto;
-    background-color: white;
-    height: 100%;
-    padding: 13mm 25mm 15mm 22mm;
 }
 
 table {
