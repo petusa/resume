@@ -8,17 +8,18 @@
 
 ## PROFESSIONAL SUMMARY
 
-**I help companies build high-quality software fast-without compromise.**
+**I help companies build high-quality software fast - without compromise.**
 
-Seasoned software engineer and technical leader with **18+ years of experience** designing, building, and delivering scalable, high-quality systems across **web, cloud, and mobile platforms**. Combines the versatility of a generalist with the mastery of a specialist, maintaining hands-on technical involvement while driving architectural vision and team growth.
+Principal-level software engineer and technical leader with **18+ years of experience** designing, building, and scaling **distributed systems** and real-time platforms across **web, cloud, and mobile** environments. Maintains deep **hands-on** involvement while driving **architectural vision**, **system design**, and **engineering direction**.
 
-Proficient in **abstraction, object-oriented and software design**, with deep expertise in **frontend, backend, cloud computing, IoT**, and experience with **biometrics, and payment systems**. Demonstrated ability to transform complex challenges into simple, elegant, and reliable solutions.
+Proven track record of leading architectural transformations, including decomposing monolithic systems into scalable, **event-driven architectures**.
+Experienced in making critical trade-offs between scalability, complexity, and delivery speed in real-world systems.
 
-Recognized for **innovation, creativity, and client focus**, with proven results from global **Innovation Centers** and direct experience in **Silicon Valley**. Strong communicator, mentor, and team enabler with excellent presentation and demoing skills.
+Combines the versatility of a **generalist** with strong depth in **backend**, **frontend**, and **distributed systems**, consistently translating complex technical challenges into simple, reliable, and maintainable solutions.
 
-Experienced in leading and scaling **cross-functional engineering teams**, fostering collaboration, and guiding individuals toward technical excellence and personal growth.
+Recognized for **innovation, creativity, and client focus**, with proven results from global **Innovation Centers** and direct experience in **Silicon Valley**. Strong communicator and mentor, enabling teams to deliver high-quality systems while aligning technical decisions with business outcomes. Experienced in operating across team and organizational boundaries, collaborating with product, business, and engineering stakeholders to define and evolve system architecture.
 
-Recently expanding into Machine Learning through structured learning (Stanford / DeepLearning.AI) and hands-on prototyping of LLM-based solutions.
+Recently expanding into Machine Learning through structured study (Stanford / DeepLearning.AI) and hands-on prototyping of LLM-based solutions.
 
 **International experience:** United States (Colorado & California), Sweden, Germany, India, UAE, Belgium, UK, Spain, Hungary
 
@@ -28,11 +29,11 @@ Recently expanding into Machine Learning through structured learning (Stanford /
 
 | **UST - Capital One (UK)** | _Málaga, SPAIN_    |
 | -------------------------- | ------------------ |
-| _Senior Software Engineer_ | _Nov 2025–Present_ |
+| _Senior Software Engineer_ | _Nov 2025-Present_ |
 
-Working on critical backend services for Capital One’s mobile platform, serving millions of users.
+Working on critical backend services for Capital One’s mobile platform, serving millions of users in a large-scale distributed environment.
 
-- Operating and improving high-availability, secure, and performant services in a large-scale distributed environment
+- Operating and improving high-availability, secure, and performant services that handle sensitive financial data and transactions
 - Driving observability initiatives: defining SLI/SLOs, implementing distributed tracing, dashboards, and alerting
 - Supporting infrastructure migrations and continuous delivery of new features aligned with business goals
 - Collaborating across teams to improve reliability, incident response, and overall customer experience
@@ -45,19 +46,20 @@ Led the migration of a large-scale social gaming monolith into a modern, scalabl
 
 _Key contributions:_
 
-- Established collaborative software engineering and quality practices across backend, frontend, and QA members (team size 6, with 4 engineers); set up infrastructure, defined tasks, and applied the Strangler Pattern to incrementally extract features into new capabilities.
-- Partnered closely with client stakeholders to understand legacy system requirements, align with processes and infrastructure, and adapt solutions accordingly.
-- Defined and implemented performance metric measurements, including collection of baseline metrics.
-- Designed and implemented real-time architecture for multiplayer game scoring and metrics, enabling thousands of concurrent clients to be handled and notified near real time via WebSockets
-- Actively hands-on with implementation tasks (e.g., Google PubSub, Redis integration), alongside code reviews, mentoring, and ensuring delivery quality.
-- Scaled QA function by coaching a manual tester into an automation specialist.
-- Reported directly to the CTO and regularly engaged with C-level executives to align on strategy and delivery.
+- Established collaborative software engineering and quality practices across backend, frontend, and QA members (team size 6, with 4 engineers); set up infrastructure, defined tasks, and applied the Strangler Pattern to incrementally extract features into new capabilities, shaping the architectural direction for the system evolution.
+- Partnered closely with client stakeholders to understand legacy system requirements, align with processes and infrastructure, and adapt solutions accordingly, influencing architectural decisions across system boundaries.
+- Defined and implemented performance metric measurements, including collection of baseline metrics, enabling system-level visibility and data-driven optimization
+- Designed and implemented real-time architecture for multiplayer game scoring and metrics, enabling thousands of concurrent clients to be handled and notified near real time via WebSockets, leveraging event-driven patterns with Redis and Pub/Sub
+- Contributed to the introduction of Elasticsearch-backed components for scalable data access and analytics use cases
+- Actively hands-on with implementation tasks (e.g., Google PubSub, Redis integration), alongside code reviews, mentoring, and ensuring delivery quality while guiding overall technical direction
+- Scaled QA function by coaching a manual tester into an automation specialist, improving system reliability and long-term maintainability
+- Reported directly to the CTO and regularly engaged with C-level executives to align on strategy and delivery
 
 _Other activities_:
 
 - Supported and guided engineers across multiple client projects.
 - Assisted in onboarding new consultants into client teams.
-- Co-researched and prototyped a candidate vetting tool with the CTO, leveraging LLMs (OpenAI), SERP APIs, and scraping tools to detect scams and automate candidate scoring-critical in a remote-first consultancy setup.
+- Co-researched and prototyped a candidate vetting tool with the CTO, leveraging LLMs (OpenAI), SERP APIs, and scraping tools to detect scams and automate candidate scoring - critical in a remote-first consultancy setup.
 
 _Used technologies_:
 
@@ -73,13 +75,29 @@ _Used technologies_:
 
 Built internal productivity tools and supported digital teams in multiple roles
 
-As a _technical lead_: remotely managed and assisted the daily work of multiple teams in parallel of at most 6 software engineers at a time, based in various locations and time zones (Europe/UK, India, US). Brought team members and newcomers up to speed and enabled them to contribute to the continuous business value delivery and success in the long term, both individually and as a team. Crafted solutions for end usability and implementation simplicity to ensure high quality, enhanced maintainability and operability. Defined and broke down tasks, sketched concepts/diagrams, designed architecture, built pipelines and testing processes, managed sprint boards and ceremonies. Conducted team matching/hiring interviews to build up team.
+As a **technical lead**:
+- remotely managed and supported multiple teams (up to 6–7 engineers across Europe/UK, India, US, Malaysia), ensuring consistent delivery across time zones
+- upskilled team members and onboarded newcomers, enabling them to contribute effectively to long-term business value delivery
+- designed and guided implementation of cloud-based systems, contributing to system architecture and shaping technical direction in collaboration with stakeholders
+- worked closely with product, business, and design teams to align technical solutions with user needs, influencing system design and feature direction
+- made and supported technical trade-offs under tight deadlines and constrained team capacity, balancing delivery speed, scalability, and maintainability
+- maintained hands-on involvement in implementation, code reviews, and problem-solving, while guiding overall technical direction
+- introduced and promoted observability practices (OpenTelemetry) to improve system visibility and support performance-driven decision making
+- established engineering practices (CI/CD pipelines, testing strategies, development workflows, code quality standards) to improve reliability and long-term maintainability
+- mentored, upskilled and onboarded engineers, enabling them to become productive contributors within complex systems
+- collaborated across teams and initiatives, contributing to system evolution and consistency across multiple products
 
-As a full stack engineer: implemented functionalities staying hands on with daily coding activities and PR/data change reviews; conducted research on unknown unknown patterns so team members can benefit from the prototyped and documented findings. Conducted algorithmic coding interviews.
+As a **full stack engineer**:
+- implemented functionalities staying hands-on with daily coding activities and PR/data change reviews
+- conducted research on _unknown unknown_ patterns so team members can benefit from the prototyped and documented findings
+- conducted algorithmic coding interviews
 
-_As a result-oriented and client focused product expert:_ proactively drove/initiating discussions between product, business, design and technical team; laid down feasible technical directions on prospective features aligned to the required user needs. Defined product roadmap.
+As a result-oriented and client-focused **product expert**:
+- proactively drove discussions between product, business, design and technical team
+- laid down feasible technical directions on prospective features aligned to the required user needs
+- contributed to defining the product roadmap
 
-| _Sustainability Planning App (team size: 10, with 6 engineers)_ | _Mar 2023-Present_ |
+| _Sustainability Planning App (team size: 10, with 6 engineers)_ | _Mar 2023-Dec 2024_ |
 | --------------------------------------------------------------- | ------------------ |
 
 - _In general_: built a product within bp's Sustainability portfolio and framework that is used to help bp in tracking and reporting progress of actions across all business entities to reach sustainability goals in the next decades
@@ -127,14 +145,14 @@ _Other activities_:
 | ------------------------------------ | ------------------- |
 | _Senior Software Engineer - UI Lead_ | _Sep 2019-Sep 2022_ |
 
-Developed productivity tools for internal use that support the daily operation between colleagues and suppliers keeping track of commercial agreements and cost changes of goods and products (used actively by ~3000 users). Operated as a full stack engineer in a team of 6; enhanced and implemented devops process; defined features with the business; laid down frontend application architecture. The product was a cloud based (AWS/Azure) scalable system following CQRS and event-sourcing architectural patterns, mostly with React frontend. Besides this, also led and guided frontend engineering efforts in a fuel cost modelling product and an approval system product and contributed to the establishment of a corporate wide component library. As a lead engineer also mentored new joiners and participated in the hiring process, conducted interviews. As a cross organizational effort initiated a distributed component driven development approach that aimed to reduce redundancies and development/maintenance costs by enabling teams to publish and consume each other's code as auto bundled and auto versioned components (bit.dev).
+Developed productivity tools for internal use that support the daily operation between colleagues and suppliers keeping track of commercial agreements and cost changes of goods and products (used actively by ~3000 users). Operated as a full stack engineer in a team of 6; enhanced and implemented devops process; defined features with the business; laid down frontend application architecture. The product was a **cloud-based system built on distributed architectural patterns (CQRS, event-sourcing)**, mostly with React frontend. Besides this, also led and guided frontend engineering efforts in a fuel cost modelling product and an approval system product and contributed to the establishment of a corporate wide component library. As a lead engineer also mentored new joiners and participated in the hiring process, conducted interviews. As a cross organizational effort initiated a distributed component driven development approach that aimed to reduce redundancies and development/maintenance costs by enabling teams to publish and consume each other's code as auto bundled and auto versioned components (bit.dev).
 
 _Used technologies_:
 
 - Frontend: JavaScript/Typescript, React, MobX/Flux/Redux, CRA, Storybook, GraphQL, Figma, Zeplin
-- Backend: Java, Spring Boot, Cassandra, ElasticSearch, Postgres, KAFKA
+- Backend: Java, Spring Boot, Cassandra, Elasticsearch, Postgres, KAFKA
 - Testing: Jest, Cypress, React Testing Library, Junit, Cucumber, Selenium, Gherkin, BrowserStack
-- Infra/DevOps: Docker, Kubernetes, Jenkins, Sonar, TrivyScan, GitHub Actions
+- Infra/DevOps: AWS/Azure, Docker, Kubernetes, Jenkins, Sonar, TrivyScan, GitHub Actions
 
 _Other activities_:
 
