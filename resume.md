@@ -1,8 +1,8 @@
 # Peter NAGY
 
-| Spain                                                                                                          | +34-604-491-891                                         |
-| -------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------- |
-| [github.com/petusa](http://github.com/petusa) \| [linkedin.com/in/petusa](https://www.linkedin.com/in/petusa/) | [peter.x.nagy@gmail.com](mailto:peter.x.nagy@gmail.com) |
+| Spain                                        | +34-604-491-891                                         |
+| -------------------------------------------- | ------------------------------------------------------- |
+| [petusa.github.io](https://petusa.github.io) | [peter.x.nagy@gmail.com](mailto:peter.x.nagy@gmail.com) |
 
 **Objective:** Interested in challenging web/cloud/AI/mobile/frontend/backend/IoT work opportunities that make real change and impact. Motivated to guide technical teams and drive directions at higher or hands-on levels.
 
