@@ -18,7 +18,7 @@ Recognized for **innovation, creativity, and client focus**, with proven results
 
 Experienced in leading and scaling **cross-functional engineering teams**, fostering collaboration, and guiding individuals toward technical excellence and personal growth.
 
-Recently expanding into Machine Learning through structured learning (Stanford / DeepLearning.AI) and hands-on prototyping of LLM-based solutions.
+Recently expanding into Machine Learning through structured study (Stanford / DeepLearning.AI) and hands-on prototyping of LLM-based solutions.
 
 **International experience:** United States (Colorado & California), Sweden, Germany, India, UAE, Belgium, UK, Spain, Hungary
 
@@ -30,9 +30,9 @@ Recently expanding into Machine Learning through structured learning (Stanford /
 | -------------------------- | ------------------ |
 | _Senior Software Engineer_ | _Nov 2025–Present_ |
 
-Working on critical backend services for Capital One’s mobile platform, serving millions of users.
+Working on critical backend services for Capital One’s mobile platform, serving millions of users in a large-scale distributed environment.
 
-- Operating and improving high-availability, secure, and performant services in a large-scale distributed environment
+- Operating and improving high-availability, secure, and performant services that handle sensitive financial data and transactions
 - Driving observability initiatives: defining SLI/SLOs, implementing distributed tracing, dashboards, and alerting
 - Supporting infrastructure migrations and continuous delivery of new features aligned with business goals
 - Collaborating across teams to improve reliability, incident response, and overall customer experience
@@ -62,7 +62,7 @@ _Other activities_:
 _Used technologies_:
 
 - Frontend: from JavaScript/WEB to Unity/C#/Android/IOS
-- Backend: from PHP/MySQL/Redis/ElasticSearch to Java/Spring Boot/MongoDB/Redis/Valkey/Google PubSub/Kubernetes (GCP)/Helm Charts
+- Backend: from PHP/MySQL/Redis/Elasticsearch to Java/Spring Boot/MongoDB/Redis/Valkey/Google PubSub/Kubernetes (GCP)/Helm Charts
 - AI/Scraping: OpenAI functions, SERP, Google Custom Search Engine
 - Testing: Selenium, Gherkin
 - Infra/DevOps: Docker, Kubernetes, GitHub Actions
@@ -75,11 +75,11 @@ Built internal productivity tools and supported digital teams in multiple roles
 
 As a _technical lead_: remotely managed and assisted the daily work of multiple teams in parallel of at most 6 software engineers at a time, based in various locations and time zones (Europe/UK, India, US). Brought team members and newcomers up to speed and enabled them to contribute to the continuous business value delivery and success in the long term, both individually and as a team. Crafted solutions for end usability and implementation simplicity to ensure high quality, enhanced maintainability and operability. Defined and broke down tasks, sketched concepts/diagrams, designed architecture, built pipelines and testing processes, managed sprint boards and ceremonies. Conducted team matching/hiring interviews to build up team.
 
-As a full stack engineer: implemented functionalities staying hands on with daily coding activities and PR/data change reviews; conducted research on unknown unknown patterns so team members can benefit from the prototyped and documented findings. Conducted algorithmic coding interviews.
+As a full stack engineer: implemented functionalities staying hands on with daily coding activities and PR/data change reviews; conducted research on _unknown unknown_ patterns so team members can benefit from the prototyped and documented findings. Conducted algorithmic coding interviews.
 
 _As a result-oriented and client focused product expert:_ proactively drove/initiating discussions between product, business, design and technical team; laid down feasible technical directions on prospective features aligned to the required user needs. Defined product roadmap.
 
-| _Sustainability Planning App (team size: 10, with 6 engineers)_ | _Mar 2023-Present_ |
+| _Sustainability Planning App (team size: 10, with 6 engineers)_ | _Mar 2023-Dec 2024_ |
 | --------------------------------------------------------------- | ------------------ |
 
 - _In general_: built a product within bp's Sustainability portfolio and framework that is used to help bp in tracking and reporting progress of actions across all business entities to reach sustainability goals in the next decades
@@ -127,12 +127,12 @@ _Other activities_:
 | ------------------------------------ | ------------------- |
 | _Senior Software Engineer - UI Lead_ | _Sep 2019-Sep 2022_ |
 
-Developed productivity tools for internal use that support the daily operation between colleagues and suppliers keeping track of commercial agreements and cost changes of goods and products (used actively by ~3000 users). Operated as a full stack engineer in a team of 6; enhanced and implemented devops process; defined features with the business; laid down frontend application architecture. The product was a cloud based (AWS/Azure) scalable system following CQRS and event-sourcing architectural patterns, mostly with React frontend. Besides this, also led and guided frontend engineering efforts in a fuel cost modelling product and an approval system product and contributed to the establishment of a corporate wide component library. As a lead engineer also mentored new joiners and participated in the hiring process, conducted interviews. As a cross organizational effort initiated a distributed component driven development approach that aimed to reduce redundancies and development/maintenance costs by enabling teams to publish and consume each other's code as auto bundled and auto versioned components (bit.dev).
+Developed productivity tools for internal use that support the daily operation between colleagues and suppliers keeping track of commercial agreements and cost changes of goods and products (used actively by ~3000 users). Operated as a full stack engineer in a team of 6; enhanced and implemented devops process; defined features with the business; laid down frontend application architecture. The product was a cloud based scalable system built on distributed architectural patterns (CQRS, event-sourcing), mostly with React frontend. Besides this, also led and guided frontend engineering efforts in a fuel cost modelling product and an approval system product and contributed to the establishment of a corporate wide component library. As a lead engineer also mentored new joiners and participated in the hiring process, conducted interviews. As a cross organizational effort initiated a distributed component driven development approach that aimed to reduce redundancies and development/maintenance costs by enabling teams to publish and consume each other's code as auto bundled and auto versioned components (bit.dev).
 
 _Used technologies_:
 
 - Frontend: JavaScript/Typescript, React, MobX/Flux/Redux, CRA, Storybook, GraphQL, Figma, Zeplin
-- Backend: Java, Spring Boot, Cassandra, ElasticSearch, Postgres, KAFKA
+- Backend: Java, Spring Boot, Cassandra, Elasticsearch, Postgres, KAFKA
 - Testing: Jest, Cypress, React Testing Library, Junit, Cucumber, Selenium, Gherkin, BrowserStack
 - Infra/DevOps: Docker, Kubernetes, Jenkins, Sonar, TrivyScan, GitHub Actions
 
